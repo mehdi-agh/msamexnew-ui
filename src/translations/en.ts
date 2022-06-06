@@ -4,16 +4,16 @@ import { nationalitiesNames } from './nationalities';
 export const en = {
 	// new homepage
 	'page.homePage.banner.title.sale': 'SALE Round TWO START IN',
-	'page.homePage.banner.title.round': 'UDON in Sale Round TWO',
-	'page.homePage.banner.title.presale': 'UDONEX PRESALE ROUND TWO',
+	'page.homePage.banner.title.round': 'SAMX in Sale Round TWO',
+	'page.homePage.banner.title.presale': 'mSamex PRESALE ROUND TWO',
 	'page.homePage.banner.time.days': 'DAYS',
 	'page.homePage.banner.time.hours': 'HOURS',
 	'page.homePage.banner.time.minutes': 'MINUTES',
 	'page.homePage.banner.time.seconds': 'SECONDS',
-	'page.homePage.btn.buy': 'Buy UDON',
+	'page.homePage.btn.buy': 'Buy SAMX',
 	'page.homePage.btn.buyList': 'Buyer List',
 	'page.homePage.download.download': 'Download',
-	'page.homePage.download.name': 'UDONEX',
+	'page.homePage.download.name': 'mSamex',
 	'page.homePage.download.title': 'Trade BTC, USDT and Alt coins',
 	'page.homePage.feature.title': 'Why join UdonEX ?',
 	'page.homePage.feature.title.1': 'User-friendly interface with conventional tools.',
@@ -49,7 +49,7 @@ export const en = {
 	'page.profile.accountActivity.tab.activity': 'Activity',
 	'page.profile.accountActivity.tab.device': 'Device',
 
-	'page.profile.activeStep.title.welcome': 'Welcome to UDONEX',
+	'page.profile.activeStep.title.welcome': 'Welcome to mSamex',
 	'page.profile.activeStep.desc.just': 'Just a few more steps and you’re good to go!',
 	'page.profile.activeStep.step1.tile.register': 'Register Account',
 	'page.profile.activeStep.step2.title.2fa': '2FA',
@@ -87,7 +87,7 @@ export const en = {
 	'page.transaction.table.currency': 'Currency',
 	'page.transaction.table.amount': 'Amount',
 	'page.transaction.table.price': 'Udon Price',
-	'page.transaction.table.total': 'Total (UDON)',
+	'page.transaction.table.total': 'Total (SAMX)',
 	'page.transaction.table.status': 'Status',
 	'page.transaction.table.status.success': 'success',
 	'page.transaction.table.status.fail': 'fail',
@@ -528,7 +528,7 @@ export const en = {
 	'page.body.landing.footer.about': 'About us',
 	'page.body.landing.footer.community': 'Community',
 	'page.body.landing.footer.info': 'Info',
-	'page.body.landing.footer.rights': 'Baseapp © All rights reserved.',
+	'page.body.landing.footer.rights': 'mSamex © All rights reserved.',
 
 	'pagy.body.footer.powered_by': 'Powered by',
 
@@ -1368,7 +1368,7 @@ export const en = {
 	'landing.banner.content.header.startnow': 'Contact Us',
 	'landing.banner.content.header.viewdemo': 'View Demo',
 
-	'landing.banner.content.header.title.desc': 'UDONEX creates infrastructure and provides support',
+	'landing.banner.content.header.title.desc': 'mSamex creates infrastructure and provides support',
 	'landing.banner.content.header.title.text': 'HOW',
 	'landing.banner.content.header.title.sub': 'It works',
 	'landing.banner.content.header.title.qoute':
@@ -1445,8 +1445,8 @@ export const en = {
 		'Do you want to purchase ready-made crypto exchange with existing domain name, custom design and layout? Get one in less than 24 hours!',
 	'landing.banner.content.domain.text': 'READY-MADE',
 	'landing.banner.content.domain.sub': 'CORE EXCHANGES',
-	'landing.banner.content.domain.udonex': 'EX.UDONEX.COM - LIVE',
-	'landing.banner.content.domain.udonswap': 'UDONDEX - SOON',
+	'landing.banner.content.domain.udonex': 'xe.mSamex.COM - LIVE',
+	'landing.banner.content.domain.udonswap': 'mSamex - SOON',
 	'landing.banner.content.domain.nft': 'NFT - SOON',
 	'landing.banner.content.domain.action.title': 'Up to',
 	'landing.banner.content.domain.action.title.br': 'request',
