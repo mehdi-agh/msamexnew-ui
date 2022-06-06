@@ -63,11 +63,11 @@ export const UdonLanding = () => {
 										<img src={Vector} alt="Vector" />
 									</div>
 								</div>
-								<a href="https://t.me/Wang_Jung_Udon" target="_blank">
+								<a href="https://t.me/msamex" target="_blank">
 									{intl.formatMessage({ id: 'landing.banner.content.header.startnow' })}
 								</a>
 							</div>
-							<a className="action-view" href="https://test.udonex.com" target="_blank">
+							<a className="action-view" href="https://xe.msamex.com" target="_blank">
 								{intl.formatMessage({ id: 'landing.banner.content.header.viewdemo' })}
 							</a>
 						</div>
@@ -287,7 +287,7 @@ export const UdonLanding = () => {
 								</div>
 								<div className="plans__items-footer">
 									<div className="price__action">
-										<a className="price__action-click" href="https://t.me/Wang_Jung_Udon" target="_blank">
+										<a className="price__action-click" href="https://t.me/msamex" target="_blank">
 											{intl.formatMessage({
 												id: 'landing.banner.content.package.option.items.policy.action',
 											})}
@@ -345,7 +345,7 @@ export const UdonLanding = () => {
 								</div>
 								<div className="plans__items-footer">
 									<div className="price__action">
-										<a className="price__action-click" href="https://t.me/Wang_Jung_Udon" target="_blank">
+										<a className="price__action-click" href="https://t.me/msamex" target="_blank">
 											{intl.formatMessage({
 												id: 'landing.banner.content.package.option.items.policy.action',
 											})}
@@ -400,7 +400,7 @@ export const UdonLanding = () => {
 								</div>
 								<div className="plans__items-footer">
 									<div className="price__action">
-										<a className="price__action-click" href="https://t.me/Wang_Jung_Udon" target="_blank">
+										<a className="price__action-click" href="https://t.me/msamex" target="_blank">
 											{intl.formatMessage({
 												id: 'landing.banner.content.package.option.items.policy.action',
 											})}
@@ -437,7 +437,7 @@ export const UdonLanding = () => {
 							<div className="row thirdscreen__main-product">
 								<div className="col-md-4 thirdscreen__main-product__items">
 									<img src={Banner} alt="soon" />
-									<a className="items__name" href="https://t.me/Wang_Jung_Udon" target="_blank">
+									<a className="items__name" href="https://t.me/msamex" target="_blank">
 										{intl.formatMessage({ id: 'landing.banner.content.domain.udonex' })}
 									</a>
 									<div className="items__action">
@@ -449,7 +449,7 @@ export const UdonLanding = () => {
 										<div className="items__action-buy">
 											<a
 												className="items__action-buy-link"
-												href="https://t.me/Wang_Jung_Udon"
+												href="https://t.me/msamex"
 												target="_blank"
 											>
 												{intl.formatMessage({ id: 'landing.banner.content.domain.action.buy' })}
@@ -471,7 +471,7 @@ export const UdonLanding = () => {
 										<div className="items__action-buy">
 											<a
 												className="items__action-buy-link"
-												href="https://t.me/Wang_Jung_Udon"
+												href="https://t.me/msamex"
 												target="_blank"
 											>
 												{intl.formatMessage({ id: 'landing.banner.content.domain.action.buy' })}
@@ -493,7 +493,7 @@ export const UdonLanding = () => {
 										<div className="items__action-buy">
 											<a
 												className="items__action-buy-link"
-												href="https://t.me/Wang_Jung_Udon"
+												href="https://t.me/msamex"
 												target="_blank"
 											>
 												{intl.formatMessage({ id: 'landing.banner.content.domain.action.buy' })}
@@ -533,7 +533,7 @@ export const UdonLanding = () => {
 							<div className="forthScreen__contactus__wrap">
 								<img src={phone} alt="phone" />
 								<div className="contactus-text">
-									<a className="contactus-text-link" href="https://t.me/Wang_Jung_Udon" target="_blank">
+									<a className="contactus-text-link" href="https://t.me/msamex" target="_blank">
 										{intl.formatMessage({ id: 'landing.banner.content.more.product.contact' })}
 									</a>
 								</div>
@@ -866,7 +866,7 @@ export const UdonLanding = () => {
 								<div className="demo-item__option d-flex justify-content-center">
 									<a
 										className="demo-item__option__sent-demo"
-										href="https://t.me/Wang_Jung_Udon"
+										href="https://t.me/msamex"
 										target="_blank"
 									>
 										{intl.formatMessage({ id: 'landing.banner.content.demo.sent.demo' })}
@@ -901,7 +901,7 @@ export const UdonLanding = () => {
 								<div className="demo-item__option d-flex justify-content-center">
 									<a
 										className="demo-item__option__sent-demo"
-										href="https://t.me/Wang_Jung_Udon"
+										href="https://t.me/msamex"
 										target="_blank"
 									>
 										{intl.formatMessage({ id: 'landing.banner.content.demo.sent.demo' })}
@@ -936,7 +936,7 @@ export const UdonLanding = () => {
 								<div className="demo-item__option d-flex justify-content-center">
 									<a
 										className="demo-item__option__sent-demo"
-										href="https://t.me/Wang_Jung_Udon"
+										href="https://t.me/msamex"
 										target="_blank"
 									>
 										{intl.formatMessage({ id: 'landing.banner.content.demo.sent.demo' })}
