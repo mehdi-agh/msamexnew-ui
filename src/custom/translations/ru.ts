@@ -5,7 +5,7 @@ export const ru: LangType = {
 	// new homepage
 	'page.homePage.banner.title.sale': 'SALE Round TWO START IN',
 	'page.homePage.banner.title.round': 'UDON in Sale Round TWO',
-	'page.homePage.banner.title.presale': 'UDONEX PRESALE ROUND TWO',
+	'page.homePage.banner.title.presale': 'mSamex PRESALE ROUND TWO',
 	'page.homePage.banner.time.days': 'DAYS',
 	'page.homePage.banner.time.hours': 'HOURS',
 	'page.homePage.banner.time.minutes': 'MINUTES',
@@ -13,9 +13,9 @@ export const ru: LangType = {
 	'page.homePage.btn.buy': 'Buy UDON',
 	'page.homePage.btn.buyList': 'Buyer List',
 	'page.homePage.download.download': 'Download',
-	'page.homePage.download.name': 'UDONEX',
+	'page.homePage.download.name': 'mSamex',
 	'page.homePage.download.title': 'Trade BTC, USDT and Alt coins',
-	'page.homePage.feature.title': 'Why join UdonEX ?',
+	'page.homePage.feature.title': 'Why join mSamex ?',
 	'page.homePage.feature.title.1': 'User-friendly interface with conventional tools.',
 	'page.homePage.feature.title.2': 'Professional market analytics',
 	'page.homePage.feature.title.3': 'Processing speed transactions and TCP connections.',
@@ -49,7 +49,7 @@ export const ru: LangType = {
 	'page.profile.accountActivity.tab.activity': 'Activity',
 	'page.profile.accountActivity.tab.device': 'Device',
 
-	'page.profile.activeStep.title.welcome': 'Welcome to UDONEX',
+	'page.profile.activeStep.title.welcome': 'Welcome to mSamex',
 	'page.profile.activeStep.desc.just': 'Just a few more steps and you’re good to go!',
 	'page.profile.activeStep.step1.tile.register': 'Register Account',
 	'page.profile.activeStep.step2.title.2fa': '2FA',
@@ -310,7 +310,7 @@ export const ru: LangType = {
 	// end vote
 
 	// new /airdrop
-	'page.airdrop.header.title': 'Udonex Airdrop Hub',
+	'page.airdrop.header.title': 'mSamex Airdrop Hub',
 	'page.airdrop.header.active': 'Active',
 	'page.airdrop.header.coming': 'Up coming',
 	'page.airdrop.header.wait': 'Wait for distribute',
@@ -397,7 +397,7 @@ export const ru: LangType = {
 	'page.body.vote.news.title':
 		'Every 10 days we pick the most voted coin. Only one coin is selected. 1 vote = {vote_rate} {vote_currencie}. Minimum 100,000 votes required to be considered.',
 	'page.body.vote.news.title.you_can_buy': 'You can buy UDON on',
-	'page.body.vote.news.title.exchange_name': 'UDONEX Exchange',
+	'page.body.vote.news.title.exchange_name': 'mSamex Exchange',
 	'page.body.vote.news.title.pancakeswap': 'Pancakeswap',
 	'page.body.vote.news.new_coin': 'New Coins',
 	'page.body.vote.news.balance': 'Balance {vote_currencie} : {vote_value}',
@@ -1037,7 +1037,7 @@ export const ru: LangType = {
 
 	'page.header.signUp': 'Регистрация',
 	'page.header.signUp.create': 'CREATE A FREE ACCOUNT',
-	'page.header.signUp.welcome': 'Welcome to Udonex',
+	'page.header.signUp.welcome': 'Welcome to mSamex',
 	'page.header.signUp.email': 'Почта',
 	'page.header.signUp.email.message.error': 'Почта недействительная',
 	'page.header.signUp.password': 'Пароль',
@@ -1493,9 +1493,9 @@ export const ru: LangType = {
 	'landing.banner.content.header.monetize.heading.3': 'Trading Fees',
 	'landing.banner.content.header.monetize.body3':
 		'Probably the most popular way of monetization for crypto exchanges is to charge a commission on users trades. This commission is actually a fee for the service of facilitating a trade between the seller and the buyer.',
-	'landing.banner.content.header.monetize.heading.4': 'Resell Udonex Products and Services',
+	'landing.banner.content.header.monetize.heading.4': 'Resell mSamex Products and Services',
 	'landing.banner.content.header.monetize.body4':
-		'You can place a link to Udonex and receive a commissions for every sale your link generates.',
+		'You can place a link to mSamex and receive a commissions for every sale your link generates.',
 	'landing.banner.content.header.monetize.heading.5': 'Liquidity Import Fees',
 	'landing.banner.content.header.monetize.body5':
 		'Another great revenue stream for cryptocurrency exchanges is Liquidity Import, or producing liquidity for a given financial instrument. In its simplest form, market making consists of buying and selling a digital asset on your own exchange, at slightly less desirable prices than on another exchange. Once the trade occurs on your own exchange, you place a trade on a different exchange which offsets your previous trade, and you pocket the difference.',
@@ -1631,8 +1631,8 @@ export const ru: LangType = {
 	'kyc.screen.current.feature.title.unverified': 'Your account is reviewing',
 	'kyc.screen.current.feature.title.verified': 'Your account is verified',
 	'kyc.screen.current.feature.title.failed': 'Your verification is failed',
-	'kyc.screen.current.feature.title.contact': 'Please contact to Udonex Administrator.',
-	'kyc.screen.current.feature.desc': 'Complete verification to access services on Udonex',
+	'kyc.screen.current.feature.title.contact': 'Please contact to mSamex Administrator.',
+	'kyc.screen.current.feature.desc': 'Complete verification to access services on mSamex',
 
 	'kyc.screen.verify.heading': 'Verified',
 	'kyc.screen.verify.title.1': 'Personal information',
