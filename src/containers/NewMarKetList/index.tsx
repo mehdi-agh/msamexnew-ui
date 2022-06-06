@@ -55,7 +55,7 @@ const MarketChartItem = styled.div`
 	}
 `;
 
-const BASE_MARKET_URL = 'https://www.udonex.com/api/v2/udonex/public/markets';
+const BASE_MARKET_URL = 'https://xe.msamex.com/api/v2/peatio/public/markets';
 
 export const NewMarketList: React.FC<any> = () => {
 	const defaultTicker = {
