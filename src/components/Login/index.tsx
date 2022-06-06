@@ -175,7 +175,7 @@ const Login = React.memo((props: LogInProps) => {
 									marginTop: '1rem',
 								}}
 							>
-								WELCOME TO UDONEX
+								WELCOME TO mSamex
 							</div>
 						</div>
 					</div>
@@ -215,7 +215,7 @@ const Login = React.memo((props: LogInProps) => {
 							<span data-bn-type="text" style={{ color: 'green' }}>
 								https://
 							</span>
-							<span data-bn-type="text">ex.udonex.com</span>
+							<span data-bn-type="text">xe.msamex.com</span>
 						</div>
 					</div>
 					{logo}
