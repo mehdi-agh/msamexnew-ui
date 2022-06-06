@@ -38,7 +38,7 @@ export const SALE_UDON_CONFIG = {
 	priceText: '0,000001 USD',
 	priceNumber: '0.000001',
 	saleCurrencies: ['bnb', 'usdt', 'busd'],
-	address: '0x8606d59312150A2970377502b607c36084aC4806',
+	address: '',
 };
 
 export const NewUdonHomePage = () => {
