@@ -4,12 +4,13 @@ import { useSelector } from 'react-redux';
 import { Link } from 'react-router-dom';
 import { selectUserLoggedIn } from '../../../modules';
 import { Avatar } from '../../assets/icons';
+import Logo from'../../assets/images/Udonlogo.png';
+
 
 const HeaderComponent: React.FC = () => {
 	const userLoggedIn = useSelector(selectUserLoggedIn);
 	const intl = useIntl();
 	//const Logo = require('../../assets/images/Udonlogo.svg');
-	import Logo from'../../assets/images/Udonlogo.png';
 
 
 	return (
