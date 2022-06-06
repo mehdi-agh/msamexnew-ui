@@ -86,7 +86,7 @@ export const MarketsHotOnlist: React.FC<any> = () => {
 		}
 	}, [markets.length]);
 
-	const BASE_MARKET_URL = 'https://ex.udonex.com/api/v2/udonex/public/markets';
+	const BASE_MARKET_URL = 'https://xe.msamex.com/api/v2/peatio/public/markets';
 	// const BASE_MARKET_URL = `${window.document.location.origin}/api/v2/udonex/public/markets`;
 
 	const fetchMarketsKlines = async (marketId: string, from: number, to: number) => {
