@@ -41,8 +41,8 @@ export const en = {
 	'page.body.vote.msg.fail': 'Vote fail',
 	'page.body.vote.news.title':
 		'Every 10 days we pick the most voted coin. Only one coin is selected. 1 vote = {vote_rate} {vote_currencie}. Minimum 100,000 votes required to be considered.',
-	'page.body.vote.news.title.you_can_buy': 'You can buy UDON on ',
-	'page.body.vote.news.title.exchange_name': 'UDONEX Exchange',
+	'page.body.vote.news.title.you_can_buy': 'You can buy SAMX on ',
+	'page.body.vote.news.title.exchange_name': 'mSamex Exchange',
 	'page.body.vote.news.title.pancakeswap': 'Pancakeswap',
 	'page.body.vote.news.new_coin': 'New Coins',
 	'page.body.vote.news.balance': 'Balance {vote_currencie} : {vote_value}',
