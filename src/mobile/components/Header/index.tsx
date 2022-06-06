@@ -4,7 +4,7 @@ import { useSelector } from 'react-redux';
 import { Link } from 'react-router-dom';
 import { selectUserLoggedIn } from '../../../modules';
 import { Avatar } from '../../assets/icons';
-import Logo from'../../assets/images/Udonlogo.png';
+import Logo from'../../assets/images/UdonLogo.png';
 
 
 const HeaderComponent: React.FC = () => {
