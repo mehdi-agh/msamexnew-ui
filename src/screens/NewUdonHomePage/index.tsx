@@ -24,7 +24,7 @@ import DownloadGG from './home/Screen2.png';
 import Download2 from './home/Screen3.png';
 import Download1 from './home/Screen4.png';
 import Telegram from './home/Telegram.svg';
-import Udon from './home/udon-img.svg';
+import Udon from './home/udon-img.png';
 import WhatApp from './home/WhatApp.svg';
 import YouT from './home/ytb.svg';
 import { transactionsListFetch } from 'modules/plugins/transactions';
