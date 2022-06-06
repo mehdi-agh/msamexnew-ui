@@ -40,7 +40,7 @@ const renderFooterDesktop = (inputEmail, sendEmail, emailAddress) => {
 							<img src={Logo} alt="" />
 						</Link>
 						<p className="footer__info__item mt-5 mb-5">
-							Udonex is regulated and licensed by both Vietnam and Japan.
+							mSamex is regulated and licensed by Turkiye.
 							<br /> It aims to provide the most secure and legal-compliance
 							<br /> cryptocurrency trading and digital derivatives
 							<br /> trading services to global investors.
@@ -48,12 +48,12 @@ const renderFooterDesktop = (inputEmail, sendEmail, emailAddress) => {
 						<p className="footer__info__title">Follow us</p>
 						<div className="footer__news__list-icon ">
 							<div className="footer__news__list-icon__item  ">
-								<a href="https://twitter.com/Udonex2021" target="blank">
+								<a href="https://twitter.com/MsamexE" target="blank">
 									<img src={Twiter} alt="twiter" />
 								</a>
 							</div>
 							<div className="footer__news__list-icon__item  ">
-								<a href="https://t.me/udonex" target="blank">
+								<a href="https://t.me/msamex" target="blank">
 									<img src={Telegram} alt="telegram" />
 								</a>
 							</div>
@@ -63,10 +63,10 @@ const renderFooterDesktop = (inputEmail, sendEmail, emailAddress) => {
 						<p className="footer__info__title">CONTACT</p>
 						<div style={{ borderBottom: '2px solid var(--yellow)', width: 50, marginBottom: 20 }}></div>
 						<p className="footer__info__item">
-							<FaPhoneAlt className="footer__info__item__icon" /> +84 963244785
+							<FaPhoneAlt className="footer__info__item__icon" /> +90 216 709 9344
 						</p>
 						<p className="footer__info__item">
-							<FaEnvelope className="footer__info__item__icon" /> support@udonex.com
+							<FaEnvelope className="footer__info__item__icon" /> info@msamex.com
 						</p>
 					</div>
 					<div className="footer__news">
@@ -98,27 +98,27 @@ const renderFooterDesktop = (inputEmail, sendEmail, emailAddress) => {
 							<Link to="/announcement">Announcements </Link>
 						</p>
 						<p className="footer__info__item">
-							<a href="https://forms.gle/98bht3Q9JagP2JWM8" target="blank">
+							<a href="#" target="blank">
 								Submit Trade Listing
 							</a>
 						</p>
 						<p className="footer__info__item">
-							<a href="https://forms.gle/7Ym6zbbfTCunE26cA" target="blank">
+							<a href="#" target="blank">
 								Submit IEO Listing
 							</a>
 						</p>
 						<p className="footer__info__item">
-							<a href="https://forms.gle/Ui6xDaL9ME8KNQu37" target="blank">
+							<a href="#" target="blank">
 								Submit Vote Listing
 							</a>
 						</p>
 						<p className="footer__info__item">
-							<a href="https://api.udonex.com" target="blank">
+							<a href="#" target="blank">
 								API Documentation
 							</a>
 						</p>
 						<p className="footer__info__item">
-							<Link to="/Udonex2cloud">Udonex Cloud Service</Link>
+							<Link to="#">Udonex Cloud Service</Link>
 						</p>
 					</div>
 				</div>
@@ -126,7 +126,7 @@ const renderFooterDesktop = (inputEmail, sendEmail, emailAddress) => {
 			<div>
 				<div className="white-line"></div>
 				<p className="footer__copyright">
-					UDONEX Exchange © 2021 <span className="text-primary">Udonex.com</span> All rights reserved.
+					mSamex Exchange © 2022 <span className="text-primary">mSamex.com</span> All rights reserved.
 				</p>
 			</div>
 		</div>
