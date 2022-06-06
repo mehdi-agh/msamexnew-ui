@@ -8,7 +8,9 @@ import { Avatar } from '../../assets/icons';
 const HeaderComponent: React.FC = () => {
 	const userLoggedIn = useSelector(selectUserLoggedIn);
 	const intl = useIntl();
-	const Logo = require('../../assets/images/Udonlogo.svg');
+	//const Logo = require('../../assets/images/Udonlogo.svg');
+	import Logo from'../../assets/images/Udonlogo.png';
+
 
 	return (
 		<div className="pg-mobile-cpn-header">
