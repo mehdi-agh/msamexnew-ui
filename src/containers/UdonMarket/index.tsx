@@ -16,7 +16,7 @@ const defaultTicker = {
 	price_change_percent: '+0.00%',
 	volume: '0.0',
 };
-const displayMarket = 'usdt';
+const displayMarket = 'usd';
 const sliceTo = 0;
 const sliceFrom = 5;
 
