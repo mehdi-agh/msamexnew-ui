@@ -144,7 +144,7 @@ export const NewSignInMobileScreen: FC = () => {
 					</div>
 					<div className="td-mobile-screen-login__body__form__site__name">
 						<span>https://</span>
-						ex.udonex.com
+						xe.mSamex.com
 					</div>
 				</div>
 				<Form.Item
